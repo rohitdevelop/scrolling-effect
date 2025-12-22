@@ -137,8 +137,10 @@ const App = () => {
   </section>
 
   {/* FOOTER */}
-  <div className="footer-section z-10 h-screen flex items-center justify-center bg-zinc-800">
- 
+  <div className="footer-section z-10 h-screen bg-zinc-800 text-center pt-24">
+    <a href="https://scrolling-effect-b2tl.vercel.app/ " className="">
+ <button className="bg-teal-100 text-black py-2 px-2 rounded-2xl">VIEW MORE</button>
+    </a>
   </div>
 </div>
 
